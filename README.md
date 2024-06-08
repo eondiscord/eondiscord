@@ -13,6 +13,6 @@ width: 130vw;
 opacity: 0.5;
 background: url('https://github.com/eondiscord/eondiscord/blob/main/kitty.gif?raw=true');
 "]{}
-
+```
 
 CSS injection exists, but why?
